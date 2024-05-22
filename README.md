@@ -42,6 +42,16 @@ A modern chatbox interface using Flexbox to organize messages and inputs efficie
 ## How to Use
 To explore these projects, you can clone the repository and open the HTML files in your browser.
 
-```bash
 git clone https://github.com/vedant2905/FLEX-banners.git
 cd FLEX-banners
+
+Open the project folder and launch the index.html file in your web browser to see the Flexbox magic in action!
+
+# Contact Me
+If you have any questions, suggestions, or just want to say hello, feel free to reach out!
+
+Email: vedantv2905@gmail.com
+
+**LinkedIn**: [Vedant Vaidya] (linkedin.com/in/vedant-vaidya-7b4294215)
+
+Thank you for visiting my profile! Happy coding!
