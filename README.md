@@ -15,7 +15,7 @@ A sleek and modern food card design for restaurants. This project highlights the
   - Attractive layout
   - Easy to navigate
 
-[View Project](link-to-repository)
+[View Project](https://github.com/vedant2905/FLEX-banners)
 
 ### 2. Resort Advertisement
 An eye-catching advertisement banner for a resort. The layout adapts to various screen sizes, ensuring that the advertisement looks good on both mobile and desktop devices.
@@ -26,7 +26,7 @@ An eye-catching advertisement banner for a resort. The layout adapts to various 
   - Engaging visuals
   - Clear call-to-action
 
-[View Project](link-to-repository)
+[View Project](https://github.com/vedant2905/FLEX-banners)
 
 ### 3. Chatbox Interface
 A modern chatbox interface using Flexbox to organize messages and inputs efficiently. This project showcases how Flexbox can be used to create functional and aesthetically pleasing UI components.
@@ -37,11 +37,11 @@ A modern chatbox interface using Flexbox to organize messages and inputs efficie
   - Responsive design
   - Smooth user experience
 
-[View Project](link-to-repository)
+[View Project](https://github.com/vedant2905/FLEX-banners)
 
 ## How to Use
 To explore these projects, you can clone the repository and open the HTML files in your browser.
 
 ```bash
-git clone https://github.com/vedant2905/your-repository.git
-cd your-repository
+git clone https://github.com/vedant2905/FLEX-banners.git
+cd FLEX-banners
